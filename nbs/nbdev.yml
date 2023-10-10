@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "mvglm"
+  site-url: "https://jackhogan.github.io/mvglm"
+  description: "A Python library for multi-view generalised kernel machines."
+  repo-branch: main
+  repo-url: "https://github.com/jackhogan/mvglm"
